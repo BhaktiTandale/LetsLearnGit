@@ -8,5 +8,6 @@ class Program
     int sum = a + b;
 
         Console.WriteLine("Sum = " + sum);    
+        Console.WriteLine("Hi");
     }
   }
